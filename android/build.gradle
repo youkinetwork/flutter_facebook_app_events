@@ -2,7 +2,7 @@ group 'id.oddbit.flutter.facebook_app_events'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.5.21'
+    ext.kotlin_version = '1.7.20'
     repositories {
         google()
         mavenCentral()
